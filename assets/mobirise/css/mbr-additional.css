@@ -418,11 +418,13 @@ h6,
   text-align: center;
   color: #000000;
 }
-#header3-1 .mbr-section-title,
-#header3-1 .mbr-section-subtitle {
-  text-align: center;
+#msg-box5-17 H3 {
+  color: #28324e;
 }
-#header3-1 H3 {
+#msg-box5-17 P {
+  color: #28324e;
+}
+#content1-2 P {
   color: #28324e;
 }
 #content6-3 DIV {
