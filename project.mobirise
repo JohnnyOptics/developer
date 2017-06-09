@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "developer",
-    "currentPage": "index.html",
+    "currentPage": "developer_eng",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -638,7 +638,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"developer_eng#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNk8ydml3cERCRVU\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNk8ydml3cERCRVU\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
         }
       ]
     },
@@ -1080,7 +1080,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"developer_eng#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNk8ydml3cERCRVU\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNk8ydml3cERCRVU\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
         }
       ]
     },
@@ -1553,7 +1553,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "I'd be glad to answer further questions on a meeting.<br>mobile:&nbsp;<a href=\"tel://532-32-88-01\">+(48) 532 32 88 01</a><br>",
+          "subtitle": "I'd be glad to answer any further questions on a meeting.<br>mobile:&nbsp;<a href=\"tel://532-32-88-01\">+(48) 532 32 88 01</a><br>",
           "form": {
             "action": "an.icon.pictures@gmail.com",
             "alerts": {
@@ -1581,7 +1581,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
         },
         {
           "_tags": [
@@ -1691,7 +1691,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"developer_eng#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNk8ydml3cERCRVU\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNk8ydml3cERCRVU\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
         }
       ]
     }
