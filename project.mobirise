@@ -37,7 +37,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -637,7 +638,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>DANE KONTAKTOWE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\">DRUKUJ CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>DANE KONTAKTOWE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li>"
         }
       ]
     },
@@ -647,7 +648,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 3
       },
       "components": [
         {
@@ -1078,7 +1080,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>DANE KONTAKTOWE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\">DRUKUJ CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>DANE KONTAKTOWE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li>"
         }
       ]
     },
@@ -1088,7 +1090,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -1417,8 +1420,8 @@
           },
           "_anchor": "msg-box5-19",
           "_params": {
-            "imageSize": "25",
-            "paddingTop": "2",
+            "imageSize": "22",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1459,8 +1462,8 @@
               "size": 0
             }
           },
-          "title": "PHOTOGRAPHER<br>GRAPHIC DESIGNER&nbsp;<br>JUNIOR WEB DEVELOPER",
-          "text": "<b>Witam Serdecznie!&nbsp;<br></b>Zapraszam do zapoznania się z moim internetowym <b>CV.</b><br>",
+          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\"><br>PHOTOGRAPHER</span><span style=\"font-size: 3rem; line-height: 1.1;\"><br></span>GRAPHIC DESIGNER&nbsp;<br>JUNIOR WEB DEVELOPER",
+          "text": "<b>Dear Sirs!&nbsp;<br></b>Welcome to my online&nbsp;<b>CV.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1475,11 +1478,11 @@
           },
           "_anchor": "content1-1a",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Nazywam się Jan Szymański (lat 35) &nbsp;i chętnie podejmę pracę/płatny staż w charakterze <b>Junior Web Developera</b>. Na przestrzeni ostatnich 15-stu lat wykonywałem zawody związane z fotografią, edycją tekstu i obrazu, projektowaniem grafiki na potrzeby marketingu, a także stworzyłem samodzielnie kilka stron WWW. Posiadam dużą wrażliwość estetyczną i jestem kreatywny. Niedawno wróciłem z Anglii i od kilku miesięcy uczę się programowania w zakresie Front End Developing'u. Jestem także zainteresowany Back Endem. Studiuję online na <b>Codecademy.com,&nbsp;</b>Coursera.org,<b>&nbsp;courses.edx.org, </b>Stackoverflow.com,<b> W3schools.com</b>. Dotychczas zgłębiłem wiedzę z następujących działów: <b>HTML 5, CSS3, Responsive Design, Sass, Angular JS 1.X, JavaScript, GitHub. </b>W najbliższym czasie zamierzam nauczyć się również &nbsp;<b>jQuert, Ruby, Ruby On Rails, SQL, ReactJS , Phyton, PHP </b>oraz<b> Java.&nbsp;</b>Aktualnie, bardzo zależy mi na pogłębieniu zdobytych informacji w zakresie programowania.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Szukam pracodawcy u którego, w ciągu nadchodzących miesięcy, będę mógł praktycznie zastosować i poszerzyć zdobytą wiedzę, licząc za razem na <b>długotrwałą współpracę.</b>&nbsp;</span></p>"
+          "text": "<p>My name is Jan Szymański (35) and I'm seeking for work / paid internship as <b>Junior Web Developer</b>.  Over the last 15 years I have been doing photography, text and image editing, graphic design for marketing,  and also created several web pages. I have a great aesthetic sensitivity and I am creative. I recently came back  from England and I have been learning Front End Developing for some months now. I am also interested in Back End. I am studying online at <b>Codecademy.com</b>, Coursera.org, courses.edx.org, Stackoverflow.com, W3schools.com. So far I explored the following areas: <b>HTML 5, CSS3, Responsive Design, Sass, Angular JS 1.X, JavaScript, GitHub</b>. In the near future I'm planning to learn <b>jQuert, Ruby, Ruby On Rails, SQL, ReactJS, Phyton, PHP </b>and<b> Java.</b>  At the moment, I would like to deepen my acquired programming knowledge. I am looking for a position  where, in the coming months, I will be able to practically apply and broaden my knowledge.  <br>I count for <b>long-term cooperation</b>.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1497,8 +1500,8 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<div><b style=\"font-size: 1.07rem; line-height: 1.5;\">DOŚWADCZENIE ZAWODOWE:</b><br></div><div><b><br><br></b></div><ul><li><b>2012 – 2015</b>&nbsp;Grafik, fotograf, video producent dla Shooshh (Brighton, UK) - do moich obowiązków należało projektowanie plakatów, logo, naklejek, bannerów, produkcja video. Zbudowałem kilka stron WWW.<br></li></ul><p><br></p><ul><li><b>2010 -2012</b>\nPraca jako grafik/fotograf dla firmy Decare zajmującej \u0003się dystrybucją egzotycznej żywności.&nbsp;Do moich obowiązków należało tworzenie reklam, zdjęć packshot, POS'ów, projektowanie logo oraz opakowań (w tym pudełek), prezentacji, katalogów, bannerów oraz przygotowanie materiałów do druku (DTP)<br><br></li></ul><ul><li><b>2007 - 2009</b> \nPraca dla wydawnictwa Valkea Media - skład /łamanie magazynu \u0003Aktivist, fotografia koncertowa, byłem autorem wielu okładek Aktivista.<br><br></li><li><b>2006 - 2007</b> Red Bull Polska Sp. Zoo - Event/PR Manager - organizacja eventów sportowych wg. wytycznych założeń marketingu, w tym formy wizualnej. Współpraca na poziomie PR z mediami, aktualizacja informacji na stronie WWW. Współpraca i opieka nad sportowcami. Sprawozdania z budżetu.</li></ul><p><br></p><ul><li><b>2000 - 2005</b> \nPoczątkowo Sekretarz Redakcji, następnie \u0003Redaktor Naczelny miesięcznika “DosDedos”. Pozyskiwanie materiałów \u0003do magazynu, współpraca z działem marketingu, koordynowanie pracy innych redaktorów, edycja i korekta tekstów, sprzedaż reklam oraz działania z zakresu PR.</li></ul><p><br></p>",
-          "text2": "<div></div><div><b>EDUKACJA:</b></div><div><b><br></b></div><div><b><br></b></div><ul><li><b>2017 - Obecnie </b>Codecademy.com, Coursera.org, Courses.edx.org, Stackoverflow.com, W3schools.com<br>Nauka programowania Online w języku angielskim.<br><br></li><li><b>2006 - 2008</b>  Akademia Fotografii w Warszawie Kurs Zaawansowany - Nauczyłem się: organizować pracę w studio, obsługiwać profesjonalny sprzęt studyjny (lampy, generatory, końcówki modelujące), używać światłomierza \u0003(pomiary światła zastanego, ciągłego, wyładowczego), wykorzystywać różne rodzaje światła \u0003w celu uzyskania określonych efektów&nbsp;<br><br></li><li><b>2002 - 2005\n</b>Wyższa Szkoła Komunikowania i Mediów Społecznych \u0003im.Jerzego Giedroycia w Warszawie, kierunek politologia \u0003(specjalizacja dziennikarstwo) - Licencjat .<br><br></li><li><b>2000 - 2002</b>&nbsp;Państwowe Studium Stenotypii i Języków Obcych<br>Uczyłęm się tam szybkiego pisania na klawiaturze, poprawnego pisania korespondencji w językach obcych (angielski, niemiecki).<br><br></li></ul><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">INNE:</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><ul><li>Sport (bieganie, jazda na rowerze/longboardzie, pływanie)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Posiadam prawo jazdy kategorii B. patent ratownika WOPR</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Laptop Dell i7 (8GB Ram, 256 SSD) + Adobe CS 6</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Canon 5D Mark II / 7D + 100/150 mm f/2 + 28/42 mm f/1.8</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Biegła znajomość języka angielskiego</b> w mowie i piśmie<br></span></li></ul>"
+          "text1": "<div><b>WORK EXPERIENCE:</b></div><div><b><br></b></div><ul><li><b style=\"font-size: 1.07rem; line-height: 1.5;\">2012 - 2015 </b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Graphic designer, photographer, video producer for Shooshh (Brighton, UK) - my responsibilities included designing posters, logos, stickers, banners, video production. I have built several websites.</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><ul><li><b style=\"font-size: 1.07rem; line-height: 1.5;\">2010 -2012 </b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Working as a graphic artist / photographer for Decare (distribution of exotic food). My responsibilities included creating advertisements, packshot images, POS, designing logos and packages (including boxes), presentations, catalogs, banners and printing materials (DTP).<br><br></span></li><li><b>2007 - 2009 </b>Work for Valkea Media - composition / breaking magazine Aktivist, concert photography, I was the author of many covers.  </li></ul><div><b><br></b></div><ul><li><b>2006 - 2007 </b>Red Bull Polska Sp. Zoo - Event / PR Manager - organization of sports events according to marketing guidelines, including visual form. PR cooperation with the media, updating information on the web. Collaboration and care for athletes. Budget reports.</li></ul><div><b><br></b></div><ul><li><b>  2000 - 2005 </b>Initially, the editorial secretary, then the editor-in-chief of the \"DosDedos\" magazine. Collaborating with the marketing department, coordinating the work of other editors, editing and correcting texts, advertising sales and PR activities.&nbsp;</li></ul><div> &nbsp;</div>",
+          "text2": "<div></div><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">EDUCATION:<br></b><br></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>  2017 - Currently </b>Codecademy.com, Coursera.org, Courses.edx.org, Stackoverflow.com, W3schools.com. Learning programming online in English<br><br></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">.<b>  2006 - 2008 </b>Academy of Photography in Warsaw Advanced Course - I learned to: work in a studio, operate professional studio equipment (lamps, generators), use a light meter, use different types of light to achieve specific effects<br><br></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>  2002 - 2005 </b>University of Communication and Social Sciences in Warsaw (Jerzy Giedroyc) political science (specialization in journalism) - bachelor degree<br>.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>  2000 - 2002 </b>Study of Stenotypes and Foreign Languages I learn a quick typing on the keyboard, correct writing correspondence in foreign languages ​​(English, German).<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br><b>OTHER:  <br><br></b></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sports (running, cycling / longboarding, swimming) <br></span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">I have a driving license of category B. WOPR Rescue Patent</span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dell i7 Laptop (8GB Ram, 256 SSD) + Adobe CS 6 </span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Canon 5D Mark II / 7D + 100/150mm f / 2 + 28/42mm f / 1.8 </span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Very good command in </b>spoken and written<b> English  </b></span><br></span></li></ul>"
         },
         {
           "_tags": [
@@ -1517,7 +1520,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>* Wyrażam zgodę na wykorzystanie podanych informacji zgodnie z ustawą \u0003o ochronie danych osobowych z 29.08.97, Dz. U. 133/97, poz. 883.&nbsp;</blockquote>"
+          "text": "<blockquote>* I agree to the use of the information given in accordance with the Personal Data Protection Act of 29.08.97, Dz. U. 133/97, item. 883.   </blockquote>"
         },
         {
           "_tags": [
@@ -1549,18 +1552,18 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "FORMULARZ KONTAKTOWY",
-          "subtitle": "Spotkajmy się. Z chęcią odpowiem na Państwa pytania.<br>&nbsp;tel:&nbsp;<a href=\"tel://532-32-88-01\">+(48) 532 32 88 01</a><br>",
+          "title": "CONTACT FORM",
+          "subtitle": "I'd be glad to answer further questions on a meeting.<br>mobile:&nbsp;<a href=\"tel://532-32-88-01\">+(48) 532 32 88 01</a><br>",
           "form": {
             "action": "an.icon.pictures@gmail.com",
             "alerts": {
-              "success": "Dziękuję za wypełnienie formularza!"
+              "success": "Thank you for filling up the form.\nHave a great day!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "IMIĘ / NAZWA FIRMY"
+                "customTitle": "COMPANY NAME"
               },
               "email": {
                 "title": "Email",
@@ -1570,11 +1573,11 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "TELEFON"
+                "customTitle": "TELEPHONE"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "WIADOMOŚĆ"
+                "customTitle": "MESSAGE"
               }
             }
           },
@@ -1688,7 +1691,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>DANE KONTAKTOWE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\">DRUKUJ CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>DANE KONTAKTOWE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li>"
         }
       ]
     }
